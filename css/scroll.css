@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --blue:#002060;
+    --orange:#c84e42;
+}
+
+body {
+    margin: 0;
+    height: 200vh;
+    font-family: 'Inter', sans-serif;
+    
+}
+.reveal-type1 {
+    display: flex;
+    align-items: center;
+   
+}
+.WONDERFUL {
+    place-content: center;
+    color:#c6d800;
+    font-weight: bold;
+    font-size: 12vw;
+    line-height: 0.9;
+    margin: auto;
+    height: 100vh;
+    max-width: 12ch;
+    letter-spacing: -10px;
+    align-self: center;
+}
+
+.spliting {
+    
+    padding-bottom: 25vh;
+    padding-left: 6vw;
+    padding-right: 6vw;
+    gap:4rem;
+    
+    
+}
+.spliting p {
+    width: 50%;
+    font-size: 47px;
+    color: white;
+    font-weight: bold;
+    line-height: 48px;
+    letter-spacing: 0.1px;
+}
+.spliting p span {
+    font-size: 51px;
+}
+
+
+
+section {
+    height: 100vh;
+    padding: 0;
+    
+    
+}
+
